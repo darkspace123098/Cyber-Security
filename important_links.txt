@@ -1,0 +1,16 @@
+To check The IP Address :
+https://whatismyipaddress.com/
+
+To Detect the Virus :
+https://www.virustotal.com/gui/home/upload
+
+To Check Email Is pwned :
+https://haveibeenpwned.com/
+
+To Check the camera:
+https://www.shodan.io/
+
+http://183.88.214.137:9000/
+
+To Get The Info Of Visitor :
+https://iplogger.org/
