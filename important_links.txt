@@ -31,3 +31,4 @@ step 3 : Extract the files and open the virtual box
 Open source Intelligence :
 https://osintframework.com/
 
+temp mail for temporary email
