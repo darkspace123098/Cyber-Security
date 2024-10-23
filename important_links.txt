@@ -19,7 +19,14 @@ To get Matierial
 https://scholar.google.com/
 
 To Download Linux :
+step 1 : Download the windows workstation below link
 https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html
+
+step 2 : Download the kali linux 
+https://www.kali.org/get-kali/#kali-platforms
+
+step 3 : Extract the files and open the virtual box
+
 
 Open source Intelligence :
 https://osintframework.com/
