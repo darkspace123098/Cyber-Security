@@ -36,7 +36,7 @@ temp mail for temporary email
 https://jimpl.com/
 
 
-auth Token
+ngrok auth Token
 2npMzp9GXJavawEywpTu6W31KyA_82ec1tKXL9LK4JCbFedJg
 
 https://www.glassdoor.co.in/Reviews/index.htm
