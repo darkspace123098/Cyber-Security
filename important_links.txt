@@ -42,3 +42,9 @@ ngrok auth Token
 https://www.glassdoor.co.in/Reviews/index.htm
 https://proxyium.com/
 https://www.whatismyip.com/ip-whois-lookup/
+
+social phish :
+https://github.com/AbirHasan2005/ShellPhish
+
+cam Phish :
+https://github.com/techchipnet/CamPhish
