@@ -49,10 +49,14 @@ https://github.com/AbirHasan2005/ShellPhish
 cam Phish :
 https://github.com/techchipnet/CamPhish
 
+TheFatRat :
+https://github.com/screetsec/TheFatRat
+
+ZPhisher :
+https://github.com/htr-tech/zphisher
 
 
-Tor Browser for vpn
+Tor Browser for vpn :
+Black Market : https://thehidden-wiki.org/wiki/index.php/Main_Page
 
-
-link that works on tor browser  :
 
